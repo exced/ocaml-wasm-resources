@@ -62,6 +62,10 @@ If you want to start without GC implementation, here is the
 
 And to help you out getting started, there is a [Docker repo](https://github.com/SanderSpies/ocaml-wasm-docker).
 
+## Contact
+
+There is a channel dedicated to wasm on the [OCaml discord](https://discordapp.com/invite/cCYQbqN).
+
 ## Notes
 
 Special thanks to Sander Spies for his work on this project and for helping people onboarding and understanding it.
