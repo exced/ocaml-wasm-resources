@@ -40,6 +40,9 @@ If you want to deep dive here are some concepts you'll need to understand:
 - [Tail calls](https://github.com/WebAssembly/tail-call)
 - [Exceptions](https://github.com/WebAssembly/exception-handling)
 
+Semantics:
+- [WebAssembly semantics (official doc)](https://webassembly.org/docs/semantics/)
+
 ## Understanding the OCaml compiler
 
 A small understanding of the OCaml compiler might be required.
